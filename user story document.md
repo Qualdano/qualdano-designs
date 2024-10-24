@@ -140,5 +140,3 @@ As a platform user:
 - Cardano smart contract interaction
 - Efficient hash storage
 - Reliable verification process
-
-This user story document outlines the essential features of the Qualdano platform, focusing on simplicity and core functionality while maintaining security and usability.
