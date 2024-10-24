@@ -2,11 +2,16 @@
 
 Welcome to the Qualdano design repository! This repository contains the design assets and prototypes for the Qualdano platform - a decentralized solution for verifying Qualtrics survey data integrity using the Cardano blockchain.
 
-## Viewing Designs
+## View Project Files
 
-You can view and interact with our design files and prototypes through Figma:
+### Design Files
+[View Design Files on Figma](https://www.figma.com/design/2ymuU77BPZGRqqNeDluprd/Designs--Qualdano?node-id=0-1&m=dev&t=IAYr7hEHeps1wYfm-1)
 
-[View Qualdano Designs on Figma](https://www.figma.com/design/2ymuU77BPZGRqqNeDluprd/Designs--Qualdano?node-id=0-1&m=dev&t=IAYr7hEHeps1wYfm-1)
+### Interactive Prototype
+[View Interactive Prototype](https://www.figma.com/proto/2ymuU77BPZGRqqNeDluprd/Designs--Qualdano?node-id=0-1&t=IAYr7hEHeps1wYfm-1)
+
+### Project Documentation
+For a detailed understanding of the platform's functionality and user flows, please refer to the [user story document](user%20story%20document.md).
 
 ## Contributing
 
